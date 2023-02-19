@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "target": "ES6",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "removeComments": true
+  }
+}

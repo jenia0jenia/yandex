@@ -1,0 +1,1 @@
+https://contest.yandex.ru/yacup/contest/42202/problems/?lang=ru&nc=3AewKnxp
